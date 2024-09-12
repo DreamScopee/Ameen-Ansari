@@ -3,8 +3,8 @@
 ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=DreamScopee.DreamScopee)
 
 ## 📫 Let's Connect:
-[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/amxxn.)
-[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github&logoColor=white)](https://github.com/DreamScopee)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/amxxn.)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DreamScopee)
 
 ## 🔭 About Me:
 - 💻 Computer Science Engineering (2nd Year)
@@ -14,20 +14,24 @@
 - 🎯 Goal: To become an expert in coding, app development, and web development.
 
 ## 🛠️ Technologies & Tools:
-
 <!-- Line 1 -->
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E)
-![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)
-![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=00599C)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <!-- Line 2 -->
-![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=java&logoColor=white&labelColor=007396)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=007ACC)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=333333)
-![CodePen](https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white&labelColor=000000)
-![Figma](https://img.shields.io/badge/-Figma-000000?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E)
+![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+
+<!-- Line 3 -->
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
 ## ✨ GitHub Streak:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DreamScopee&theme=radical)
@@ -40,4 +44,5 @@
 
 ## 🔥 Top Languages:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DreamScopee&layout=compact&theme=radical)
+
 
