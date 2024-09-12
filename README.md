@@ -2,6 +2,10 @@
 
 ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=DreamScopee.DreamScopee)
 
+## 📫 Let's Connect:
+[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/amxxn.)
+[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github&logoColor=white)](https://github.com/DreamScopee)
+
 ## 🔭 About Me:
 - 💻 Computer Science Engineering (2nd Year)
 - 🤖 Focused on Artificial Intelligence and Machine Learning
@@ -17,20 +21,15 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 
-## 🚀 GitHub Stats:
-![DreamScopee's GitHub stats](https://github-readme-stats.vercel.app/api?username=DreamScopee&show_icons=true&theme=radical)
-
-## 🔥 Top Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DreamScopee&layout=compact&theme=radical)
-
 ## ✨ GitHub Streak:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DreamScopee&theme=radical)
 
 ## 📈 Contribution Graph:
 ![DreamScopee's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DreamScopee&theme=radical)
 
+## 🚀 GitHub Stats:
+![DreamScopee's GitHub stats](https://github-readme-stats.vercel.app/api?username=DreamScopee&show_icons=true&theme=radical)
 
-## 📫 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-ameen-ba7273276/)
-[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github&logoColor=white)](https://github.com/DreamScopee)
+## 🔥 Top Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DreamScopee&layout=compact&theme=radical)
 
