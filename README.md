@@ -15,15 +15,16 @@
 
 ## 🛠️ Technologies & Tools:
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github&logoColor=white)
-![CodePen](https://img.shields.io/badge/-CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&labelColor=000000)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white&labelColor=000000)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&labelColor=000000)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white&labelColor=000000)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white&labelColor=000000)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white&labelColor=000000)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white&labelColor=000000)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=white&labelColor=000000)
+![CodePen](https://img.shields.io/badge/-CodePen-000000?style=flat&logo=codepen&logoColor=white&labelColor=000000)
+
 
 ## ✨ GitHub Streak:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DreamScopee&theme=radical)
