@@ -27,7 +27,8 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DreamScopee&theme=radical)
 
 ## 📈 Contribution Graph:
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DreamScopee&theme=radical)
+![DreamScopee's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DreamScopee&theme=radical)
+
 
 ## 📫 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-ameen-ba7273276/)
