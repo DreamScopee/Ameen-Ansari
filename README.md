@@ -1,54 +1,35 @@
-<!-- Aesthetic Banner (Like a YouTube Thumbnail) -->
-![Coding Banner]([https://yourbannerimageurl.com](https://i.pinimg.com/originals/7e/02/d4/7e02d46ace448205435d8c10d66bbceb.gif))
+# Hi there, I'm Ameen! 👋
 
-# Hi there 👋, I'm Ameen
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=DreamScopee.DreamScopee)
 
-## About Me
-I'm a passionate **Computer Science Engineering student** with a focus on **Artificial Intelligence and Machine Learning**. I started my coding journey just 6 months ago and have been diving deep into various areas of development since then.
+## 🔭 About Me:
+- 💻 Computer Science Engineering (2nd Year)
+- 🤖 Focused on Artificial Intelligence and Machine Learning
+- 🎧 Music Creator (Hip hop sunshine synthwave vibes)
+- 🌱 Learning Data Structures & Algorithms and more!
+- 🎯 Goal: To become an expert in coding, app development, and web development.
 
-### What I Like About Coding:
-- 💻 **Web Development**: HTML, CSS, JavaScript are my go-to tools for building intuitive and visually appealing websites.
-- 🧠 **Artificial Intelligence & Machine Learning**: I'm fascinated by how machines can learn and solve complex problems.
-- 🎨 **Design**: Crafting clean, minimal, and professional layouts with a chill theme is something I enjoy.
+## 🛠️ Technologies & Tools:
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 
-I've quickly picked up **web development** skills, and my focus has been on creating clean and aesthetic UI designs. I'm also learning about data structures and algorithms to sharpen my problem-solving abilities.
+## 🚀 GitHub Stats:
+![DreamScopee's GitHub stats](https://github-readme-stats.vercel.app/api?username=DreamScopee&show_icons=true&theme=radical)
 
----
+## 🔥 Top Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DreamScopee&layout=compact&theme=radical)
 
-### 🔥 **Skills & Technologies**:
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![AI/ML](https://img.shields.io/badge/-AI%2FML-brightgreen?logo=python&logoColor=white&style=flat)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
+## ✨ GitHub Streak:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DreamScopee&theme=radical)
 
----
+## 📈 Contribution Graph:
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DreamScopee&theme=radical)
 
-### 🚀 **What I’m Up To**:
-- 🌱 Currently learning **Data Structures and Algorithms**.
-- 🛠 Building cool projects like interactive quiz apps and fitness applications.
-- 🎯 Exploring deeper into **Artificial Intelligence & Machine Learning**.
+## 📫 Let's Connect:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/a-ameen-ba7273276/)
+[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github&logoColor=white)](https://github.com/DreamScopee)
 
----
-
-### ⚡ **Minimal Aesthetic Additions**:
-- 🎧 **Listening to**: Chill Lo-fi Beats while coding.
-- 📖 **Favorite Quote**: "Simplicity is the ultimate sophistication."
-- ✍️ **Fun Fact**: I'm documenting my coding journey in a journal with a poetic vibe.
-
----
-
-### 📊 **GitHub Stats**:
-![Ameen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
-
----
-
-### 🌐 **Profile Views**:
-![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=brightgreen&style=flat)
-
----
-
-### 🎯 **Let's Connect**:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
