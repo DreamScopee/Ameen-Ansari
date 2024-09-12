@@ -2,7 +2,7 @@
 <h3 align="center">A passionate junior developer from India</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/69/e6/f6/69e6f674d4ab40834c31493d21d9560c.gif" alt="PC GIF" />
+  <img src="https://i.pinimg.com/originals/fc/ed/9d/fced9df5cc4a4b0a50c219007cf12541.gif" alt="PC GIF" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dreamscopee&label=Profile%20views&color=0e75b6&style=flat" alt="dreamscopee" /> </p>
