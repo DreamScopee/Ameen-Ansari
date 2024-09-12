@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ameen Ansari</h1>
-<h3 align="center">A passionate junior developer from India</h3>
+<h3 align="center">Junior Developer</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/fc/ed/9d/fced9df5cc4a4b0a50c219007cf12541.gif" alt="PC GIF" />
+  <img src="https://i.pinimg.com/originals/0f/b9/4d/0fb94dff52a5935e105ec497a0c010a5.gif" alt="PC GIF" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dreamscopee&label=Profile%20views&color=0e75b6&style=flat" alt="dreamscopee" /> </p>
