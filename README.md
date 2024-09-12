@@ -34,6 +34,11 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" width="50" height="50"/> </a> 
 </p>
 
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dreamscopee&" alt="dreamscopee" />
+</p>
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dreamscopee&show_icons=true&locale=en&layout=compact" alt="dreamscopee" />
 </p>
@@ -42,10 +47,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=dreamscopee&show_icons=true&locale=en" alt="dreamscopee" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dreamscopee&" alt="dreamscopee" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dreamscopee&theme=radical" alt="dreamscopee" />
-</p>
