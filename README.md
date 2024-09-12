@@ -1,11 +1,11 @@
-<h1 align="center">Hey there, I'm Ameen Ansari</h1>
+<h1 align="center">Hi 👋, I'm Ameen Ansari</h1>
 <h3 align="center"> Junior Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dreamscopee&label=Profile%20views&color=0e75b6&style=flat" alt="dreamscopee" /> </p>
 
 - 🔭 I’m currently working on an app called **CodeGravity**
 
-- 🌱 I’m currently learning  **DSA, Full-Stack, etc**
+- 🌱 I’m currently learning **DSA, Full-Stack, etc**
 
 - 💬 Ask me about my projects on **Discord**
 
@@ -21,7 +21,7 @@
 <a href="https://discord.com/users/724125761748860995" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools I am familiar with:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" width="40" height="40"/> </a> 
@@ -34,11 +34,18 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dreamscopee&show_icons=true&locale=en&layout=compact" alt="dreamscopee" /></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dreamscopee&show_icons=true&locale=en&layout=compact" alt="dreamscopee" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dreamscopee&show_icons=true&locale=en" alt="dreamscopee" /></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=dreamscopee&show_icons=true&locale=en" alt="dreamscopee" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dreamscopee&" alt="dreamscopee" /></p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dreamscopee&" alt="dreamscopee" />
+</p>
 
-<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=dreamscopee&theme=radical" alt="dreamscopee" /></p>
-
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dreamscopee&theme=radical" alt="dreamscopee" />
+</p>
