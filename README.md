@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **12ameenansari34@gmail.com**
 
-- my friend name is Noor, Adnan, Shoaib.
-
 - ⚡ Fun fact **"I use 'git commit -m' to remember what I did last week."**
 
 <h3 align="left">Connect with me:</h3>
